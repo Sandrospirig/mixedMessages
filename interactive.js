@@ -26,13 +26,13 @@ guessFortune() {
 
     switch(zodiacs){
         case 'Aquarius':
-            this.zodiacSign = ' u gonna be a bitch';
+            this.zodiacSign = ' not your day';
             break;
         case 'Pisces':
-            this.zodiacSign = ' its gonna be all your fault';
+            this.zodiacSign = ' lifes life';
             break;
         case 'Aries':
-            this.zodiacSign = ' your a bitch everyday';
+            this.zodiacSign = ' its gonna get better';
             break;
         case 'Taurus':
             this.zodiacSign = ' shit happens';
